@@ -10,7 +10,7 @@ const AboutPage: VoidComponent = () => (
       <div>{version}</div>
       <h1 class={styles.title}>Mziki music player</h1>
       <div>{description}</div>
-      <a href='https://github.com/minht11/local-music-pwa'>
+      <a href='https://mziki.africa'>
         Source code on Github
       </a>
       <a href='https://mziki.africa/privacy.html'>Privacy</a>
