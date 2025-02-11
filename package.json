@@ -1,7 +1,7 @@
 {
-  "name": "snae_music_player",
+  "name": "mziki_music_player",
   "version": "1.0.4",
-  "description": "Lightweight on device music player right in your browser.",
+  "description": "Music in the palm of your hands.",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
