@@ -11,7 +11,7 @@ const AboutPage: VoidComponent = () => (
       <h1 class={styles.title}>Mziki music player</h1>
       <div>{description}</div>
       <a href='https://mziki.africa'>
-        Source code on Github
+        Join Our Community on Mziki Africa 
       </a>
       <a href='https://mziki.africa/privacy.html'>Privacy</a>
     </section>
