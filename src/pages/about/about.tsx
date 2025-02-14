@@ -9,7 +9,7 @@ const AboutPage: VoidComponent = () => (
       <img src='/icons/icon_responsive.svg' class={styles.logo} />
       <div>{version}</div>
       <h1 class={styles.title}>Mziki music player</h1>
-      <div>{description}</div>
+      
       <a href='https://mziki.africa'>
         Join Our Community on Mziki Africa 
       </a>
