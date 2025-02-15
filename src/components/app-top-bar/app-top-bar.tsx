@@ -67,7 +67,7 @@ export const AppTopBar: ParentComponent<AppTopBarProps> = (props) => {
         {props.title && <h1 class={styles.title}>{props.title}</h1>}
 
 
-<a href='http://mziki.co.ke/store/' target='_blank'>
+<a href='http://mziki.co.ke/store/' target='_blank' style="width:100%;text-align:center;margin-left:5px;margin-top:5px;margin-top:5px;margin-bottom:5px; background-color:blue;text-color:white;">
 <button> Add Music </button>
 </a>
 
