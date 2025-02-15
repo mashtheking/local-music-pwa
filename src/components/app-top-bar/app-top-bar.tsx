@@ -71,6 +71,10 @@ export const AppTopBar: ParentComponent<AppTopBarProps> = (props) => {
         {props.children}
       </div>
       {props.belowContent}
+<a href='https://mziki.africa' target='_blank'>
+<button> Add Music </button>
+</a>
     </header>
+
   )
 }
