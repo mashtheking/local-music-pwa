@@ -66,14 +66,16 @@ export const AppTopBar: ParentComponent<AppTopBarProps> = (props) => {
 
         {props.title && <h1 class={styles.title}>{props.title}</h1>}
 
+
+<a href='https://mziki.africa' target='_blank'>
+<button> Add Music </button>
+</a>
+
         {!props.hideSpacer && <div class={styles.spacer} />}
 
         {props.children}
       </div>
       {props.belowContent}
-<a href='https://mziki.africa' target='_blank'>
-<button> Add Music </button>
-</a>
     </header>
 
   )
