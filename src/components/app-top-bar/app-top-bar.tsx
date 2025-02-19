@@ -75,7 +75,7 @@ export const AppTopBar: ParentComponent<AppTopBarProps> = (props) => {
       {props.belowContent}
 <center>
 <a href='http://mziki.co.ke/store/?page=music_list' target='_blank' >
-<button style="width:90%;text-align:center;margin-top:5px;margin-bottom:5px; ;height:50px;border-color:yellow; background-color:none;text-size:26px;border-radius:5%" class={styles.tonalButton}> Add Music </button>
+<button style="width:90%;text-align:center;margin-top:5px;margin-bottom:5px; ;height:50px;border-color:yellow; background-style: transparent;text-size:26px;border-radius:5%" class={styles.tonalButton}> Add Music </button>
 </a>
 </center>
 
